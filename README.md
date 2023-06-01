@@ -15,7 +15,7 @@ Based on this [Idea 025 - Skull card game](https://blog.abluestar.com/idea025-sk
 
 ![Mandala 01](./input/set_01/mandala_01.png?raw=true)
 
-![Skull 01](./input/set_01/skull_01.png.png?raw=true)
+![Skull 01](./input/set_01/skull_01.png?raw=true)
 
 ## Set 02
 
@@ -23,7 +23,7 @@ Based on this [Idea 025 - Skull card game](https://blog.abluestar.com/idea025-sk
 
 ![Mandala 02](./input/set_02/mandala_02.png?raw=true)
 
-![Skull 02](./input/set_02/skull_02.png.png?raw=true)
+![Skull 02](./input/set_02/skull_02.png?raw=true)
 
 ## Set 03
 
@@ -31,7 +31,7 @@ Based on this [Idea 025 - Skull card game](https://blog.abluestar.com/idea025-sk
 
 ![Mandala 03](./input/set_03/mandala_03.png?raw=true)
 
-![Skull 03](./input/set_03/skull_03.png.png?raw=true)
+![Skull 03](./input/set_03/skull_03.png?raw=true)
 
 ## Set 04
 
@@ -39,4 +39,4 @@ Based on this [Idea 025 - Skull card game](https://blog.abluestar.com/idea025-sk
 
 ![Mandala 04](./input/set_04/mandala_04.png?raw=true)
 
-![Skull 04](./input/set_04/skull_04.png.png?raw=true)
+![Skull 04](./input/set_04/skull_04.png?raw=true)
