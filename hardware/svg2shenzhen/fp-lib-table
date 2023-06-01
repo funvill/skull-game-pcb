@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "mandala_01_shenzhen")(type KiCad)(uri "$(KIPRJMOD)/mandala_01_shenzhen.pretty")(options "")(descr ""))
+)
