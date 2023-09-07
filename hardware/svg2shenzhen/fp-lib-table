@@ -1,4 +1,4 @@
 
 (fp_lib_table
-  (lib (name "flower_03_shenzhen")(type KiCad)(uri "$(KIPRJMOD)/flower_03_shenzhen.pretty")(options "")(descr ""))
+  (lib (name "map_shenzhen")(type KiCad)(uri "$(KIPRJMOD)/map_shenzhen.pretty")(options "")(descr ""))
 )

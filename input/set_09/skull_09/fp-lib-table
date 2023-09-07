@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "skull_09")(type KiCad)(uri "$(KIPRJMOD)/skull_09.pretty")(options "")(descr ""))
+)

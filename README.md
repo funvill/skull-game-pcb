@@ -8,6 +8,7 @@ Based on this [Idea 025 - Skull card game](https://blog.abluestar.com/idea025-sk
 - Need a set of 6x
 - make sure the designs are simple and under 10mb of gerber files
 - JLPCB is not a art PCB manufacturing place, if its too complex they will reject it.
+- Remember a mask layer shows the absents of solder mask
 
 ## Set 01
 
